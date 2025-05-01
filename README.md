@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 UTN - FRP - TUP - Programación 1 
 
-<!--
-**fernandofilipuzzi-utn/fernandofilipuzzi-utn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚠️ Disclaimer
+
+Todo el contenido publicado en este perfil de GitHub, incluyendo repositorios públicos, es proporcionado con fines educativos y/o de desarrollo.
+
+No me hago responsable por el uso indebido, ilegal o malicioso del código por parte de terceros, ya sea mediante forks, clones o redistribuciones. Cada usuario es responsable de cómo utiliza el código publicado.
+
+Mis proyectos no representan necesariamente la opinión ni están vinculados a ninguna organización con la que colabore o haya colaborado.
+
+---
+
+¡Gracias por visitar mi perfil!
