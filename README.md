@@ -1,4 +1,4 @@
-# 👋 UTN - FRP - TUP - Programación 1 
+# 👋 UTN - FRP - TUP - Programación 1 y 2
 
 [Home](https://docs.google.com/document/d/1fU7NQupaFc95iPifZDb__KNbMF07a2dEiJU1Emimv0g/preview?tab=t.0)
 
