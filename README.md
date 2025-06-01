@@ -11,7 +11,7 @@
 
 ## 2024
 
- [Introductorio](https://github.com/UTN-FRP-TUP-Intro-Mat-20244) 
+ [Introductorio](https://github.com/UTN-FRP-TUP-Intro-Mat-2024) 
 
  [Programación I ](https://github.com/UTN-FRP-TUP-Programacion-1-2024) 
  
