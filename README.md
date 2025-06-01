@@ -7,11 +7,11 @@
 # Organizaciones
 
 ## 2025
-[Programacion I](https://github.com/UTN-FRP-TUP-Programacion-1-2025)
+[Programación I](https://github.com/UTN-FRP-TUP-Programacion-1-2025)
 
 ## 2024
-[Programacion I](https://github.com/UTN-FRP-TUP-Programacion-1-2024)
-[Programacion II](https://github.com/UTN-FRP-TUP-Programacion-2-2024)
+[Programación I](https://github.com/UTN-FRP-TUP-Programacion-1-2024)
+[Programación II](https://github.com/UTN-FRP-TUP-Programacion-2-2024)
 
 ---
 
