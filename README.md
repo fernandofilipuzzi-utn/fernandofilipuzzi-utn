@@ -9,6 +9,10 @@
 ## 2025
  [Programación I ](https://github.com/UTN-FRP-TUP-Programacion-1-2025) 
 
+ [Programación II ](https://github.com/UTN-FRP-TUP-Programacion-2-2025) 
+
+ [Aplicada ](https://github.com/UTN-FRP-TUP-Aplicada-2025) 
+
 ## 2024
 
  [Introductorio](https://github.com/UTN-FRP-TUP-Intro-Mat-2024) 
