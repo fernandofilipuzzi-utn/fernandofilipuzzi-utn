@@ -11,7 +11,7 @@
 
  [Programación II ](https://docs.google.com/document/d/1YewLvEFKFkjCESXEFruTf_HQvazFv_wKD2y6wwtjCfo/preview) 
 
- [Aplicada ](https://docs.google.com/document/d/1qGPbiIwmllmy1YvXGmMJ7zKOhPzcun4a4mG60zK98cE/preview) 
+ [Aplicada ](https://docs.google.com/document/d/1ud7dv9qWv0ZHfpYGd17nKr_CpRopx7juKsI_9Bh1hsA/preview) 
 
 ## 2024
 
