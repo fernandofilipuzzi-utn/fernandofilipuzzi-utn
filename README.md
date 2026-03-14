@@ -1,43 +1,61 @@
-# 馃憢 UTN - FRP - TUP - Programaci贸n 1 y 2
+# UTN - FRP - TUP - Programación
 
 [Home](https://docs.google.com/document/d/1fU7NQupaFc95iPifZDb__KNbMF07a2dEiJU1Emimv0g/preview?tab=t.0)
+
+---
+
+<p align="center">
+<img src="img/la_ara?a_tejedora.png?v=2" alt="La a?a tejedora" width="400"/>
+</p>
+
+<p align="center"><em>
+“La ara?a tejedora”. Ilustración artística de <a href="https://github.com/MaximaCaceres">Máxima Caceres Alba</a> y su compa?era anónima.
+</em></p> 
+
+<p align="center"><em>
+La ara?a teje la trama de temas relacionando conceptos e ideas. La ara?a completa y vincula casos de uso y ejemplos a la red de temas, <br/>
+y por último, la ara?a toma de la red lo necesario para montar su proyecto (la ara?a robot) <br/>
 
 ---
 
 # Organizaciones
 
 ## 2026
-  Aplicada [Git](https://github.com/UTN-FRP-TUP-Aplicada-2026)
+  Aplicada [Git]() 
+ [Aplicada ](https://docs.google.com/document/d/1ud7dv9qWv0ZHfpYGd17nKr_CpRopx7juKsI_9Bh1hsA/preview)  [Git](https://github.com/UTN-FRP-TUP-Aplicada-2026) (en construcción)
+
+ [Intro matemática](https://docs.google.com/document/d/1GfAeNtD15uqnVC7wjcQRUFY8Unp3nGoLtMXYA5AiXFE/preview?tab=t.0) [Git](https://github.com/UTN-FRP-TUP-Intro-Mat-2026)
+
 
 ## 2025
- [Programaci贸n I ](https://docs.google.com/document/d/1qGPbiIwmllmy1YvXGmMJ7zKOhPzcun4a4mG60zK98cE/preview) [Git](https://github.com/UTN-FRP-TUP-Programacion-1-2025)
+ [Programación I ](https://docs.google.com/document/d/1qGPbiIwmllmy1YvXGmMJ7zKOhPzcun4a4mG60zK98cE/preview) [Git](https://github.com/UTN-FRP-TUP-Programacion-1-2025)
 
- [Programaci贸n II ](https://docs.google.com/document/d/1YewLvEFKFkjCESXEFruTf_HQvazFv_wKD2y6wwtjCfo/preview) [Git](https://github.com/UTN-FRP-TUP-Programacion-2-2025)
+ [Programación II ](https://docs.google.com/document/d/1YewLvEFKFkjCESXEFruTf_HQvazFv_wKD2y6wwtjCfo/preview) [Git](https://github.com/UTN-FRP-TUP-Programacion-2-2025)
 
  [Aplicada ](https://docs.google.com/document/d/1ud7dv9qWv0ZHfpYGd17nKr_CpRopx7juKsI_9Bh1hsA/preview)  [Git](https://github.com/UTN-FRP-TUP-Aplicada-2025)
 
- [Intro matem谩tica](https://docs.google.com/document/d/1GfAeNtD15uqnVC7wjcQRUFY8Unp3nGoLtMXYA5AiXFE/preview?tab=t.0) [Git](https://github.com/UTN-FRP-TUP-Intro-Mat-2025)
+ [Intro matemática](https://docs.google.com/document/d/1GfAeNtD15uqnVC7wjcQRUFY8Unp3nGoLtMXYA5AiXFE/preview?tab=t.0) [Git](https://github.com/UTN-FRP-TUP-Intro-Mat-2025)
 
 ## 2024
 
  [Introductorio](https://github.com/UTN-FRP-TUP-Intro-Mat-2024) 
 
- [Programaci贸n I ](https://github.com/UTN-FRP-TUP-Programacion-1-2024) 
+ [Programación I ](https://github.com/UTN-FRP-TUP-Programacion-1-2024) 
  
- [Programaci贸n II ](https://github.com/UTN-FRP-TUP-Programacion-2-2024) 
+ [Programación II ](https://github.com/UTN-FRP-TUP-Programacion-2-2024) 
  
  [Aplicada ](https://github.com/UTN-FRP-TUP-Aplicada-2024) 
 
 ---
 
-## 鈿狅笍 Disclaimer
+## ?? Disclaimer
 
-Todo el contenido publicado en este perfil de GitHub, incluyendo repositorios p煤blicos, es proporcionado con fines educativos y/o de desarrollo.
+Todo el contenido publicado en este perfil de GitHub, incluyendo repositorios públicos, es proporcionado con fines educativos y/o de desarrollo.
 
-No me hago responsable por el uso indebido, ilegal o malicioso del c贸digo por parte de terceros, ya sea mediante forks, clones o redistribuciones. Cada usuario es responsable de c贸mo utiliza el c贸digo publicado.
+No me hago responsable por el uso indebido, ilegal o malicioso del código por parte de terceros, ya sea mediante forks, clones o redistribuciones. Cada usuario es responsable de cómo utiliza el código publicado.
 
-Mis proyectos no representan necesariamente la opini贸n ni est谩n vinculados a ninguna organizaci贸n con la que colabore o haya colaborado.
+Mis proyectos no representan necesariamente la opinión ni están vinculados a ninguna organización con la que colabore o haya colaborado.
 
 ---
 
-隆Gracias por visitar mi perfil!
+## Gracias por visitar mi perfil!
