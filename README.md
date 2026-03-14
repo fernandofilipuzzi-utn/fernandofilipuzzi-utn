@@ -8,9 +8,6 @@
   <a href="https://www.twitch.tv/fernandofilipuzziutn">
     <img src="https://img.shields.io/badge/Twitch-fernandofilipuzziutn-purple?logo=twitch&logoColor=white"/>
   </a>
-  <a href="https://www.twitch.tv/fernandofilipuzziutn">
-    <img src="https://img.shields.io/badge/GitHub-fernandofilipuzzi-utn-black?logo=github&logoColor=white"/>
-  </a>
 </p>
 ---
 
