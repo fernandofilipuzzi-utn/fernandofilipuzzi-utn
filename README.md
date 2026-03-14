@@ -1,7 +1,14 @@
 # UTN - FRP - TUP - Programación
 
 [Home](https://docs.google.com/document/d/1fU7NQupaFc95iPifZDb__KNbMF07a2dEiJU1Emimv0g/preview?tab=t.0)
-
+<p align="center">
+  <a href="https://www.youtube.com/@fernandofilipuzziutn">
+    <img src="https://img.shields.io/badge/YouTube-Fernando%20Filipuzzi-red?logo=youtube&logoColor=white"/>
+  </a>
+  <a href="https://www.twitch.tv/fernandofilipuzziutn">
+    <img src="https://img.shields.io/badge/Twitch-Fernando%20Filipuzzi-purple?logo=twitch&logoColor=white"/>
+  </a>
+</p>
 ---
 
 <p align="center">
