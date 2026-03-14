@@ -5,7 +5,7 @@
 ---
 
 <p align="center">
-<img src="img/la_ara?a_tejedora.png?v=2" alt="La a?a tejedora" width="400"/>
+<img src="img/la_ara?a_tejedora.png?v=2" alt="La ara?a tejedora" width="400"/>
 </p>
 
 <p align="center"><em>
