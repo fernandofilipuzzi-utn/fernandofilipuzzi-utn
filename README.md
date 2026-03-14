@@ -20,31 +20,30 @@ y por último, la ara?a toma de la red lo necesario para montar su proyecto (la 
 
 # Organizaciones
 
-## 2026
-  Aplicada [Git]() 
- [Aplicada ](https://docs.google.com/document/d/1ud7dv9qWv0ZHfpYGd17nKr_CpRopx7juKsI_9Bh1hsA/preview)  [Git](https://github.com/UTN-FRP-TUP-Aplicada-2026) (en construcción)
+## 2026 
+ [Aplicada](https://docs.google.com/document/d/1ud7dv9qWv0ZHfpYGd17nKr_CpRopx7juKsI_9Bh1hsA/preview) - [Git](https://github.com/UTN-FRP-TUP-Aplicada-2026) (en construcción)
 
- [Intro matemática](https://docs.google.com/document/d/1GfAeNtD15uqnVC7wjcQRUFY8Unp3nGoLtMXYA5AiXFE/preview?tab=t.0) [Git](https://github.com/UTN-FRP-TUP-Intro-Mat-2026)
+ [Intro matemática](https://docs.google.com/document/d/1GfAeNtD15uqnVC7wjcQRUFY8Unp3nGoLtMXYA5AiXFE/preview?tab=t.0)-  [Git](https://github.com/UTN-FRP-TUP-Intro-Mat-2026)
 
 
 ## 2025
- [Programación I ](https://docs.google.com/document/d/1qGPbiIwmllmy1YvXGmMJ7zKOhPzcun4a4mG60zK98cE/preview) [Git](https://github.com/UTN-FRP-TUP-Programacion-1-2025)
+ [Programación I ](https://docs.google.com/document/d/1qGPbiIwmllmy1YvXGmMJ7zKOhPzcun4a4mG60zK98cE/preview) - [Git](https://github.com/UTN-FRP-TUP-Programacion-1-2025)
 
- [Programación II ](https://docs.google.com/document/d/1YewLvEFKFkjCESXEFruTf_HQvazFv_wKD2y6wwtjCfo/preview) [Git](https://github.com/UTN-FRP-TUP-Programacion-2-2025)
+ [Programación II ](https://docs.google.com/document/d/1YewLvEFKFkjCESXEFruTf_HQvazFv_wKD2y6wwtjCfo/preview) - [Git](https://github.com/UTN-FRP-TUP-Programacion-2-2025)
 
- [Aplicada ](https://docs.google.com/document/d/1ud7dv9qWv0ZHfpYGd17nKr_CpRopx7juKsI_9Bh1hsA/preview)  [Git](https://github.com/UTN-FRP-TUP-Aplicada-2025)
+ [Aplicada](https://docs.google.com/document/d/1ud7dv9qWv0ZHfpYGd17nKr_CpRopx7juKsI_9Bh1hsA/preview) - [Git](https://github.com/UTN-FRP-TUP-Aplicada-2025)
 
- [Intro matemática](https://docs.google.com/document/d/1GfAeNtD15uqnVC7wjcQRUFY8Unp3nGoLtMXYA5AiXFE/preview?tab=t.0) [Git](https://github.com/UTN-FRP-TUP-Intro-Mat-2025)
+ [Intro matemática](https://docs.google.com/document/d/1GfAeNtD15uqnVC7wjcQRUFY8Unp3nGoLtMXYA5AiXFE/preview) - [Git](https://github.com/UTN-FRP-TUP-Intro-Mat-2025)
 
 ## 2024
 
- [Introductorio](https://github.com/UTN-FRP-TUP-Intro-Mat-2024) 
+ [Programación I ](https://docs.google.com/document/d/1mS7wy2gvRgPOVo7W2nNuZQ7MukxuXrBM21ep4Y4AO8I/preview) - [Git](https://github.com/UTN-FRP-TUP-Programacion-1-2024) 
+ 
+ [Programación II ](https://docs.google.com/document/d/1hyqf2vUc-L7eqAjOI93UfZTTYKlHMh-mJ3IsVtmffGY/preview) - [Git](https://github.com/UTN-FRP-TUP-Programacion-2-2024) 
+ 
+ [Aplicada](https://docs.google.com/document/d/1fS92AZCuvGXhTIzjkJ_JHZEpdgtA5P68tYixVeQimVA/preview0) - [Git](https://github.com/UTN-FRP-TUP-Aplicada-2024) 
 
- [Programación I ](https://github.com/UTN-FRP-TUP-Programacion-1-2024) 
- 
- [Programación II ](https://github.com/UTN-FRP-TUP-Programacion-2-2024) 
- 
- [Aplicada ](https://github.com/UTN-FRP-TUP-Aplicada-2024) 
+ [Intro matemática](https://docs.google.com/document/d/1Qce7qFU5UaneW8h-8nBDookhoBPoiB-IfaqPNJ49RWg/preview) - [Git](https://github.com/UTN-FRP-TUP-Intro-Mat-2024) 
 
 ---
 
