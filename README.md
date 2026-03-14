@@ -28,7 +28,7 @@ y por último, la ara?a toma de la red lo necesario para montar su proyecto (la 
 # Organizaciones
 
 ## 2026 
- [Aplicada](https://docs.google.com/document/d/1ud7dv9qWv0ZHfpYGd17nKr_CpRopx7juKsI_9Bh1hsA/preview) - [Git](https://github.com/UTN-FRP-TUP-Aplicada-2026) (en construcción)
+ [Aplicada](https://docs.google.com/document/d/1o-iFNkw3PyW0xb7arr3JwQXRaZ_FKOh6MO4sC_dAR5g/preview?tab=t.0) - [Git](https://github.com/UTN-FRP-TUP-Aplicada-2026) (en construcción)
 
  [Intro matemática](https://docs.google.com/document/d/1DqIdR3eF_wCuKoape8Uyuj-cWd9GSmbmj44MWs7jIjw/preview)-  [Git](https://github.com/UTN-FRP-TUP-Intro-Mat-2026)
 
@@ -48,13 +48,13 @@ y por último, la ara?a toma de la red lo necesario para montar su proyecto (la 
  
  [Programación II ](https://docs.google.com/document/d/1hyqf2vUc-L7eqAjOI93UfZTTYKlHMh-mJ3IsVtmffGY/preview) - [Git](https://github.com/UTN-FRP-TUP-Programacion-2-2024) 
  
- [Aplicada](https://docs.google.com/document/d/1fS92AZCuvGXhTIzjkJ_JHZEpdgtA5P68tYixVeQimVA/preview0) - [Git](https://github.com/UTN-FRP-TUP-Aplicada-2024) 
+ [Aplicada](https://docs.google.com/document/d/1fS92AZCuvGXhTIzjkJ_JHZEpdgtA5P68tYixVeQimVA/preview) - [Git](https://github.com/UTN-FRP-TUP-Aplicada-2024) 
 
  [Intro matemática](https://docs.google.com/document/d/1Qce7qFU5UaneW8h-8nBDookhoBPoiB-IfaqPNJ49RWg/preview) - [Git](https://github.com/UTN-FRP-TUP-Intro-Mat-2024) 
 
 ---
 
-## ?? Disclaimer
+## ⚠️ Disclaimer
 
 Todo el contenido publicado en este perfil de GitHub, incluyendo repositorios públicos, es proporcionado con fines educativos y/o de desarrollo.
 
