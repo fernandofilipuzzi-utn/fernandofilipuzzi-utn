@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/badge/Twitch-fernandofilipuzziutn-purple?logo=twitch&logoColor=white"/>
   </a>
   <a href="https://www.twitch.tv/fernandofilipuzziutn">
-    <img src="https://img.shields.io/badge/Twitch-Fernando%20Filipuzzi-black?logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Twitch-fernandofilipuzzi-utn-black?logo=github&logoColor=white"/>
   </a>
 </p>
 ---
