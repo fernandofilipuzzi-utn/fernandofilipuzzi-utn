@@ -23,7 +23,7 @@ y por último, la ara?a toma de la red lo necesario para montar su proyecto (la 
 ## 2026 
  [Aplicada](https://docs.google.com/document/d/1ud7dv9qWv0ZHfpYGd17nKr_CpRopx7juKsI_9Bh1hsA/preview) - [Git](https://github.com/UTN-FRP-TUP-Aplicada-2026) (en construcción)
 
- [Intro matemática](https://docs.google.com/document/d/1GfAeNtD15uqnVC7wjcQRUFY8Unp3nGoLtMXYA5AiXFE/preview?tab=t.0)-  [Git](https://github.com/UTN-FRP-TUP-Intro-Mat-2026)
+ [Intro matemática](https://docs.google.com/document/d/1DqIdR3eF_wCuKoape8Uyuj-cWd9GSmbmj44MWs7jIjw/preview)-  [Git](https://github.com/UTN-FRP-TUP-Intro-Mat-2026)
 
 
 ## 2025
