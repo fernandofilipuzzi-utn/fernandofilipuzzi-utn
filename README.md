@@ -34,6 +34,9 @@ y por último, la ara?a toma de la red lo necesario para montar su proyecto (la 
 
  [Intro matemática](https://docs.google.com/document/d/1DqIdR3eF_wCuKoape8Uyuj-cWd9GSmbmj44MWs7jIjw/preview)-  [Git](https://github.com/UTN-FRP-TUP-Intro-Mat-2026)
 
+ [Intro matemática](https://docs.google.com/document/d/1o-iFNkw3PyW0xb7arr3JwQXRaZ_FKOh6MO4sC_dAR5g/preview)-  [Git](https://github.com/UTN-FRP-TUP-Aplicada-2026)
+ 
+ [Aplicada Streaming](https://docs.google.com/document/d/1YjyXEKsN3yb-tq6dPOpMCPO4gbYVALktvBLS_bv_xHw/preview)-  [Git](https://github.com/Aplicada-Streaming)
 
 ## 2025
  [Programación I ](https://docs.google.com/document/d/1qGPbiIwmllmy1YvXGmMJ7zKOhPzcun4a4mG60zK98cE/preview) - [Git](https://github.com/UTN-FRP-TUP-Programacion-1-2025)
